@@ -1,0 +1,5 @@
+### Check root endpoint response with hello response
+GET http://localhost:7800 HTTP/1.1
+
+### Check endpoint /publish with Data publish response
+GET http://localhost:7800/publish HTTP/1.1
